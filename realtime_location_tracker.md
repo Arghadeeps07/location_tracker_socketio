@@ -1,5 +1,5 @@
 # Location Tracker
-Location Tracer is a real-time location tracking application built using Express.js, Socket.io, and OpenStreetMap API. This project allows users to share and view live locations on an interactive map interface.
+Location Tracker is a real-time location tracking application built using Express.js, Socket.io, and OpenStreetMap API. This project allows users to share and view live locations on an interactive map interface.
 
 ## Features
 - Real-time location sharing with WebSockets (Socket.io)
