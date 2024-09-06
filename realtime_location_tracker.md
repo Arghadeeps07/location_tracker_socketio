@@ -10,4 +10,4 @@ Location Tracer is a real-time location tracking application built using Express
 - Backend: Express.js (Node.js framework)
 - Real-time communication: Socket.io
 - Map service: OpenStreetMap API
-- Frontend: HTML, CSS, JavaScript
+- Frontend: HTML, CSS, JavaScript, eJS
